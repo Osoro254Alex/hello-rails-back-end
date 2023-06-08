@@ -28,14 +28,6 @@
 
 Hello-rails-back-end" is a straightforward web application that integrates the capabilities of Ruby on Rails Api. Through its backend API, users are able to obtain a random greeting.[Frontend](https://github.com/Osoro254Alex/hello-react-front-end)
 
-## Render Deploy 🚀
-
-> [Live demo]()
-## Video demo
-
-> [Video demo]()
-## 🛠 Built With <a name="built-with"></a>
-
 > <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
 > <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
 > <li><a href="https://www.postgresql.org/">Postgresql</a></li>
