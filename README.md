@@ -7,7 +7,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 my_new_rails_app ](#-practice-test-driven-developmenttdd-)
+- [📖 hello-rails-back-end ](#-practice-test-driven-developmenttdd-)
   - [🛠 Built With ](#-built-with-)
   - [🛠 Tech Stack ](#-tech-stack-)
     - [Key Features ](#key-features-)
@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 hello-rails-react <a name="about-project"></a>
+# 📖 hello-rails-back-end <a name="about-project"></a>
 
-Hello Rails React" is a straightforward web application that integrates the capabilities of both Ruby on Rails and React. Through its backend API, users are able to obtain a random greeting.
+Hello-rails-back-end" is a straightforward web application that integrates the capabilities of Ruby on Rails Api. Through its backend API, users are able to obtain a random greeting.
 
 ## Render Deploy 🚀
 
@@ -65,13 +65,13 @@ In order to run this project you need:
 - Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/Osoro254Alex/my_new_rails_app.git
+ git clone https://github.com/Osoro254Alex/hello-rails-back-end.git
 ```
 
 - Navigate into the cloned folder
 
 ```sh
- cd my_new_rails_app
+ cd hello-rails-back-end
 ```
 
 - Install this project with:
@@ -123,14 +123,10 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+<!-- FEATURES -->
 
-## :telescope: Future Features <a name="future-features"></a>
+## :telescope:Features <a name="future-features"></a>
 
-- **Webpacker and Asset Pipeline Integration.**
-- **React-Rails Gem.**
-- **React Router.**
-- **State Management (Redux or React Context API).**
 - **Connect to the Database.**
 - **Add API endpoits.**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -141,7 +137,7 @@ In order to run this project you need:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Osoro254Alex/my_new_rails_app/issues).
+Feel free to check the [issues page](https://github.com/Osoro254Alex/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
